@@ -1,5 +1,4 @@
 import React, {useState} from 'react'
-import './apple-logo.png';
 
 const FetchAPI = () => {
 
